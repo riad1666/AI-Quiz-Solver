@@ -1,7 +1,5 @@
 # KNU Diagnosis — Auto Answer Filler
 
-**Provider:** Kangwon National University
-
 Native Windows System Tray assistant written in **Rust + Win32 API** that silently captures selected on-screen questions, sends them directly to **OpenRouter Vision AI** (without slow or error-prone local OCR), optionally verifies Python answers in an isolated subprocess, and automatically fills matching answer fields via **Windows UI Automation**—without ever clicking submit.
 
 ## Workflow
@@ -65,4 +63,4 @@ To run all tests, build the release binary (`target\release\knu_diagnosis.exe`),
 
 ## License
 
-MIT License — Copyright (c) 2026 Kangwon National University
+MIT License — Copyright (c) 2026 riad1666
