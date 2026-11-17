@@ -1,4 +1,4 @@
-# KNU Diagnosis — Auto Answer Filler
+# AI Quiz Solver — Auto Answer Filler (KNU Diagnosis)
 
 Native Windows System Tray assistant written in **Rust + Win32 API** that silently captures selected on-screen questions, sends them directly to **OpenRouter Vision AI** (without slow or error-prone local OCR), optionally verifies Python answers in an isolated subprocess, and automatically fills matching answer fields via **Windows UI Automation**—without ever clicking submit.
 
