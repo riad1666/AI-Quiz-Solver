@@ -1,0 +1,4 @@
+/target/
+/installer/setup_app/target/
+**/*.rs.bk
+*.pdb
