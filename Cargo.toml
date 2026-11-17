@@ -2,8 +2,8 @@
 name = "knu_diagnosis"
 version = "0.1.0"
 edition = "2021"
-authors = ["Kangwon National University"]
-description = "KNU Diagnosis by Kangwon National University — native Windows system-tray assistant that captures questions, solves them with OpenRouter Vision AI, and safely fills answer fields."
+authors = ["riad1666"]
+description = "KNU Diagnosis — native Windows system-tray assistant that captures questions, solves them with OpenRouter Vision AI, and safely fills answer fields."
 license = "MIT"
 
 [dependencies]

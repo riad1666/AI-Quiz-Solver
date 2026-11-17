@@ -2,8 +2,8 @@
 name = "knu_diagnosis_setup"
 version = "0.1.0"
 edition = "2021"
-authors = ["Kangwon National University"]
-description = "Interactive Windows Installer for KNU Diagnosis (Kangwon National University)"
+authors = ["riad1666"]
+description = "Interactive Windows Installer for KNU Diagnosis"
 license = "MIT"
 
 [dependencies.windows]
